@@ -10,7 +10,7 @@ Node.js • Express • REST APIs • Databases
 - Database design (MongoDB / MySQL)
 - Writing maintainable backend logic
 
-## 🛠 Tech Stack
+## Tech Stack
 **Backend:** Node.js, Express  
 **Databases:** MongoDB, MySQL  
 **Frontend (supporting):** JavaScript, React, HTML, CSS  
